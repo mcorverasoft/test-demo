@@ -1,0 +1,6 @@
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.test.FeriadoControllerTest]/[method:testGetFeriadosWithFilters()]
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.test.FeriadoControllerTest]/[method:testGetFeriados()]
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.test.FeriadoServiceImplTest]/[method:testGetFeriadosWithFilters()]
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.test.FeriadoServiceImplTest]/[method:testGetFeriados()]
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.TestDemoApplicationTests]/[method:name()]
+[engine:junit-jupiter]/[class:com.mcorvera.test_demo.TestDemoApplicationTests]/[method:contextLoads()]
